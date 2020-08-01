@@ -1,0 +1,89 @@
+/***************************RESPONSIVE*********************************/
+
+@media (max-width: 768px) {
+    /**Section 2 ***/
+    .hearsalon-container {
+        position: relative;
+        top: 120px;
+    }
+    .hairsalon-title {
+        font-size: 35px;
+    }
+    .hairsalon-text {
+        font-size: 14px;
+    }
+    .btn2 {
+        width: 100px !important;
+        height: 45px !important;
+        font-size: 12px !important
+    }
+    /****section 3******/
+    .ourservices-title {
+        font-size: 35px;
+    }
+    /*******Section 4********/
+    .gallery-title {
+        font-size: 35px;
+    }
+    /**********Section 5********/
+    .working-title {
+        font-size: 26px;
+        color: #BC9355;
+    }
+    /**********Section 6********/
+    .barber-title {
+        font-size: 35px;
+    }
+    .barber-names {
+        font-size: 20px !important;
+    }
+    /**********Section 7********/
+    .contact-title {
+        font-size: 35px;
+    }
+    .form-check-label {
+        font-size: 13px !important;
+    }
+    .forms-contact {
+        position: relative !important;
+        top: 220px !important;
+    }
+
+    .btn8 {
+      position: relative !important;
+      top: 10px !important;
+      }
+
+      .contacts-titles
+      {
+          font-size: 25px !important;
+      }
+
+    /******Footer********/
+
+    .card-footer {
+        position: relative !important;
+        top: 70px !important;
+      }
+
+      .copyright
+      {
+        font-size: 14px !important;
+        position: relative;
+        top: 60px;
+        padding: 5px !important;
+      }
+
+      footer {
+
+        padding-bottom: 80px;
+      }
+      
+      .social-boxs {
+        position: relative !important;
+        left: 35px !important;
+      }
+      
+
+      
+}
